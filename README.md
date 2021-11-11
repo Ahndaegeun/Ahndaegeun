@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the badge&logo=MariaDB&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the badge&logo=MySQL&logoColor=FFFFFF"/>
 </div>
+
+<hr>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahndaegeun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=compact&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerochae&theme=github_dark&layout=default&hide_border=true&hide_title=true)
