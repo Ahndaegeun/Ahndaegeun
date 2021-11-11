@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the badge&logo=PHP&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the badge&logo=Spring&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the badge&logo=SpringBoot&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ThymeLeaf-6DB33F?style=for-the badge&logo=ThymeLeaf&logoColor=FFFFFF"/>
 </div>
 
 <h3>DB</h3>
